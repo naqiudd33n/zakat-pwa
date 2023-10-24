@@ -6,7 +6,7 @@ import { Route } from '@angular/router';
 export const appRoutes: Route[] = [
 
     // Redirect empty path to '/example'
-    { path: '', pathMatch: 'full', redirectTo: 'mmp_pwa' },
+    { path: '', pathMatch: 'full', redirectTo: 'home' },
 
     // Redirect signed-in user to the '/example'
     //
