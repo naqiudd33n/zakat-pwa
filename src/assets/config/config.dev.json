@@ -1,0 +1,11 @@
+{
+    "env": {
+        "name": "dev"
+    },
+    "serviceUrl": {
+        "mtradeService": "http://209.58.160.107/pwa-be/public/api/",
+        "sporeCloud": "http://209.58.160.107/pwa-be/public/api/",
+        "bypassCORS": "https://cors-anywhere.herokuapp.com/https://iatswebuat.mtradeasia.com/pwa-be/public/api/"
+    },
+    "logging": 0
+}

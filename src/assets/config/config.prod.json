@@ -1,0 +1,9 @@
+{
+    "env": {
+        "name": "prod"
+    },
+    "serviceUrl": {
+        "mtradeService": "https://iatswebuat.mtradeasia.com/pwa-be/public/api/"
+    },
+    "logging": 6
+}
